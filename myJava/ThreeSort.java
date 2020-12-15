@@ -1,3 +1,5 @@
+Copyright: Jack-Lee-Hiter
+
 /**
  * 直接插入排序
  *
