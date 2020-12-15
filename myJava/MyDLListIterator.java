@@ -1,21 +1,3 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those who
-// do.
-// -- Bo Guan (jasonguan0107), Lauren Osborne(osbornelh72)
-package prj5;
-
-import java.util.NoSuchElementException;
-
-/**
- * Implements the ListADT with a doubly-linked list using sentinel nodes.
- * 
- * @author Lauren Osborne, Bo Guan
- * @version 2020-11-16
- * @param <T>
- *            generic type
- */
 public class DLListIterator<T> implements java.util.Iterator<T> {
     private Node<T> curr;
     private boolean canRemove;
