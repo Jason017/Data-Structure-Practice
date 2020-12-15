@@ -1,14 +1,3 @@
-/**
- * An interface for the ADT sorted list.
- * Entries in the list have positions that begin with 0.
- * @author Frank M. Carrano
- * @author Timothy M. Henry
- * @author Derek Haqq, toArray modified to return Object[],
- *         additionally this interface will be used by client code
- *         with lists having positions that begin with 0,
- *         this implementation differs from the book
-  @version 5.0
-*/
 public interface SortedListInterface<T extends Comparable<? super T>>
 {
    /** Adds a new entry to this sorted list in its proper order.
