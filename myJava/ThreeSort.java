@@ -1,4 +1,4 @@
-Copyright: Jack-Lee-Hiter
+Copyright: Jack-Lee-Hiter/AlgorithmsByPython
 
 /**
  * 直接插入排序
