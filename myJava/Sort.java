@@ -1,5 +1,3 @@
-import java.io.*;
-import java.lang.*;
 class Sort
 {
 	public static void BubbleSort(int a[],int n)
