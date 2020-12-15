@@ -1,19 +1,3 @@
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those who
-// do.
-// -- Bo Guan (jasonguan0107), Lauren Osborne(osbornelh72)
-package prj5;
-
-/**
- * Node class for DDList.
- * 
- * @author Lauren Osborne, Bo Guan
- * @version 2020-11-16
- * @param <T>
- *            Generic type
- */
 public class Node<T> {
     private Node<T> next;
     private Node<T> previous;
